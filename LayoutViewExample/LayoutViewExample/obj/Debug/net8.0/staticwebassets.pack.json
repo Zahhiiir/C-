@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\DOTNET\\LayoutViewExample\\LayoutViewExample\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LayoutViewExample.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LayoutViewExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LayoutViewExample.props",
+      "PackagePath": "build\\LayoutViewExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LayoutViewExample.props",
+      "PackagePath": "buildMultiTargeting\\LayoutViewExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LayoutViewExample.props",
+      "PackagePath": "buildTransitive\\LayoutViewExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

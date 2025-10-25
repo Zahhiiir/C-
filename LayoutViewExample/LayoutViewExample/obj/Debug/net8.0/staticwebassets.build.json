@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "SMjo4+tZpvIM33ItyoRcZD3MwlC3zIpIOKGMl8flKeU=",
+  "Source": "LayoutViewExample",
+  "BasePath": "_content/LayoutViewExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LayoutViewExample\\wwwroot",
+      "Source": "LayoutViewExample",
+      "ContentRoot": "D:\\Projects\\DOTNET\\LayoutViewExample\\LayoutViewExample\\wwwroot\\",
+      "BasePath": "_content/LayoutViewExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\DOTNET\\LayoutViewExample\\LayoutViewExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "LayoutViewExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\DOTNET\\LayoutViewExample\\LayoutViewExample\\wwwroot\\",
+      "BasePath": "_content/LayoutViewExample",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6tmcjfb7s1",
+      "Integrity": "ev3IbhGBIVgIU/Hzw0K4+dtmecJMag7Zx2ba/drdcC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.6tmcjfb7s1.css",
+      "AssetFile": "D:\\Projects\\DOTNET\\LayoutViewExample\\LayoutViewExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ev3IbhGBIVgIU/Hzw0K4+dtmecJMag7Zx2ba/drdcC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Oct 2025 11:45:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6tmcjfb7s1"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ev3IbhGBIVgIU/Hzw0K4+dtmecJMag7Zx2ba/drdcC4="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "D:\\Projects\\DOTNET\\LayoutViewExample\\LayoutViewExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ev3IbhGBIVgIU/Hzw0K4+dtmecJMag7Zx2ba/drdcC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Oct 2025 11:45:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ev3IbhGBIVgIU/Hzw0K4+dtmecJMag7Zx2ba/drdcC4="
+        }
+      ]
+    }
+  ]
+}

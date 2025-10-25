@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "~/Views/Shared/_MasterLayout.cshtml"; 
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/StyleSheet.css" />
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <div class="navbar-brand">
+                Asp.Net APP
+            </div>
+            <ul>
+                <li>
+                    <a href="/home">Home</a>
+                    <a href="/about-company">About</a>
+                    <a href="/contact-support">Contact</a>
+                    <a href="/products">Products</a>
+                    <a href="/products/search">Search Products</a>
+                    <a href="/products/order">Order Products</a>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+    <div class="page-content">
+        @RenderBody()
+    </div>
+    <div class="footer-content">
+        @RenderSection("footer_section", required: false)
+    </div>
+</body>
+</html>

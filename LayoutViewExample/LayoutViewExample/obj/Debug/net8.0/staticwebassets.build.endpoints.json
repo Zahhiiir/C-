@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.6tmcjfb7s1.css",
+      "AssetFile": "StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ev3IbhGBIVgIU/Hzw0K4+dtmecJMag7Zx2ba/drdcC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Oct 2025 11:45:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6tmcjfb7s1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ev3IbhGBIVgIU/Hzw0K4+dtmecJMag7Zx2ba/drdcC4="
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ev3IbhGBIVgIU/Hzw0K4+dtmecJMag7Zx2ba/drdcC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Oct 2025 11:45:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ev3IbhGBIVgIU/Hzw0K4+dtmecJMag7Zx2ba/drdcC4="
+        }
+      ]
+    }
+  ]
+}
