@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "EPUHriAXanjhIvcpl6KjI1UcfI0iOtmGiXkdXe/adX8=",
+  "Source": "PartialViewsExample",
+  "BasePath": "_content/PartialViewsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialViewsExample\\wwwroot",
+      "Source": "PartialViewsExample",
+      "ContentRoot": "D:\\Projects\\DOTNET\\PartialViewsExample\\PartialViewsExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\DOTNET\\PartialViewsExample\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "PartialViewsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\DOTNET\\PartialViewsExample\\PartialViewsExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewsExample",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gv24kb2ntm",
+      "Integrity": "jGfjlvc5cYkPsbwcd56Qlvp/8ZwjSmmoEfRNGPbPuCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "D:\\Projects\\DOTNET\\PartialViewsExample\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGfjlvc5cYkPsbwcd56Qlvp/8ZwjSmmoEfRNGPbPuCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:28:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGfjlvc5cYkPsbwcd56Qlvp/8ZwjSmmoEfRNGPbPuCA="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.gv24kb2ntm.css",
+      "AssetFile": "D:\\Projects\\DOTNET\\PartialViewsExample\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGfjlvc5cYkPsbwcd56Qlvp/8ZwjSmmoEfRNGPbPuCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:28:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gv24kb2ntm"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGfjlvc5cYkPsbwcd56Qlvp/8ZwjSmmoEfRNGPbPuCA="
+        }
+      ]
+    }
+  ]
+}

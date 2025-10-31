@@ -1,0 +1,21 @@
+﻿@model PartialViewsExample.Models.ListModel
+<div class="list-container">
+
+    @{
+        Model.ListTitle = "Updated";
+    }
+    <h3>@Model.ListTitle</h3>
+    <ul class="list">
+        @{
+            if (Model.ListItems != null)
+            {
+                foreach (string item in Model.ListItems)
+                {
+                    <li>@item</li>
+                }
+            }
+        }
+
+    </ul>
+  
+</div>
