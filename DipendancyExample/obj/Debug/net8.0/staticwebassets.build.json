@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "uCCz9INT5U+9KjooDGO0SaAA7ZPle65PyVEUTDSZRVs=",
+  "Source": "DipendancyExample",
+  "BasePath": "_content/DipendancyExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DipendancyExample\\wwwroot",
+      "Source": "DipendancyExample",
+      "ContentRoot": "D:\\Projects\\DOTNET\\DipendancyExample\\DipendancyExample\\wwwroot\\",
+      "BasePath": "_content/DipendancyExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\DOTNET\\DipendancyExample\\DipendancyExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "DipendancyExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\DOTNET\\DipendancyExample\\DipendancyExample\\wwwroot\\",
+      "BasePath": "_content/DipendancyExample",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3pmbm8x70z",
+      "Integrity": "pw2i/N2oKHAyqHYpyLspvyRgIt2/utIWBk3IsDMq0f8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.3pmbm8x70z.css",
+      "AssetFile": "D:\\Projects\\DOTNET\\DipendancyExample\\DipendancyExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pw2i/N2oKHAyqHYpyLspvyRgIt2/utIWBk3IsDMq0f8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Nov 2025 16:11:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3pmbm8x70z"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pw2i/N2oKHAyqHYpyLspvyRgIt2/utIWBk3IsDMq0f8="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "D:\\Projects\\DOTNET\\DipendancyExample\\DipendancyExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pw2i/N2oKHAyqHYpyLspvyRgIt2/utIWBk3IsDMq0f8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Nov 2025 16:11:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pw2i/N2oKHAyqHYpyLspvyRgIt2/utIWBk3IsDMq0f8="
+        }
+      ]
+    }
+  ]
+}
